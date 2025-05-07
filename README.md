@@ -13,7 +13,8 @@ bash
 Copy
 Edit
 python port_scanner.py
-3. Enter the target IP or hostname when prompted.
+
+###  3. Enter the target IP or hostname when prompted.
 
 Explanation:
 This script uses Python's socket library to attempt connections to ports 1 through 1000.
