@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Simple Port Scanner
 
 A simple port scanner in Python that checks if ports from 1 to 1000 are open on a given target IP or hostname.
@@ -27,12 +27,4 @@ Copy
 Edit
 Commit and push the README.md:
 
-bash
-Copy
-Edit
-git add README.md
-git commit -m "Added README"
-git push
-=======
-# port-scanner
->>>>>>> 0ae94ee599c0075b5d0be08f811bb703044b15d6
+
